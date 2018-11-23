@@ -1,0 +1,9 @@
+.my-textarea{
+    height: auto;
+    border-radius: 10px;
+    width: 200px;
+    transition: all 1s;
+}
+.my-textarea:focus{
+    border: 2px solid cornflowerblue;
+}

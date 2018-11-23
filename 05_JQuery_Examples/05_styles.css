@@ -1,0 +1,7 @@
+#text-area{
+    height: auto;
+    border-radius: 10px;
+}
+#text-area:focus{
+    border: 2px solid cornflowerblue;
+}
